@@ -1,4 +1,4 @@
-add_subdirectory(001_setup_base-code)
+add_subdirectory(000_setup_base-code)
 add_subdirectory(002_setup_instance)
 add_subdirectory(003_setup_validation-layers)
 add_subdirectory(004_setup_physical-devices-and-queue-families)
